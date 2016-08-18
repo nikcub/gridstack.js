@@ -30,6 +30,7 @@
     "lodash": "^4.14.2"
   },
   "devDependencies": {
+    "bower": "^1.7.9",
     "connect": "^3.4.1",
     "coveralls": "^2.11.8",
     "doctoc": "^1.0.0",
